@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HackerRank
+namespace WarmUp_4_Repeated_String
 {
     class Program
     {
